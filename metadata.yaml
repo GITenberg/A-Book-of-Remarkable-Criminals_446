@@ -1,0 +1,30 @@
+_repo: A-Book-of-Remarkable-Criminals_446
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irving, H. B. (Henry Brodribb)
+    alias: Irving, Henry Brodribb
+    birthdate: 1870
+    deathdate: 1919
+    gutenberg_agent_id: '240'
+    url: http://www.gutenberg.org/2009/agents/240
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Criminals -- Biography'
+- GITenberg
+tableOfContents: 'The life of Charles Peace -- The career of Robert Butler -- M. Derues
+  -- Dr. Castaing -- Professor Webster -- The mysterious Mr. Holmes -- Partnership
+  in crime: The widow Gras. Vitalis and Marie Boyer. The Fenayrou case. Eyraud and
+  Bompard.'
+title: A Book of Remarkable Criminals
+url: http://www.gutenberg.org/ebooks/446
