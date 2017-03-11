@@ -1,5 +1,8 @@
 _repo: A-Book-of-Remarkable-Criminals_446
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Irving, H. B. (Henry Brodribb)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '240'
     url: http://www.gutenberg.org/2009/agents/240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/446#A-Book-of-Remarkable-Criminals
 gutenberg_bookshelf: Crime Nonfiction
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
